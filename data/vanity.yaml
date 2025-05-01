@@ -1,0 +1,5 @@
+host: gopkg.littlesk.in
+
+paths:
+  /gopkg:
+    repo: https://github.com/LittleSkinChina/gopkg
